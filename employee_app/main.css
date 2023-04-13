@@ -1,0 +1,36 @@
+.navbar-brand{
+    font-style: italic;
+    font-size: larger;
+}
+.container-custom {
+    display: flex;
+    /* margin-top: 25px; */
+    /* align-items: center;
+    justify-content: center; */
+    margin: auto;
+    width:918px;
+    border: 3px solid whi;
+    padding: 1em 2em 1em;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height:100%;
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-right: 20px;
+  }
+  #body{
+    margin: auto;
+    width: 868px;
+    border: 3px solid blue;
+    padding: 1em 2em 2em 1em;
+  }
+  #ta{
+    margin: auto;
+    width: 868px;
+    border: 3px solid grey;
+    padding: 1em 2em 2em 1em;
+  }
